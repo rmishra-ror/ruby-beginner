@@ -1,5 +1,5 @@
 require 'test/unit'
-require '../prime'
+require_relative '../prime'
 class TestPrime < Test::Unit::TestCase
 
   test "Test to Check all Prime Numubers" do

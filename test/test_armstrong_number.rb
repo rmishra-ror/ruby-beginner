@@ -1,5 +1,5 @@
 require 'test/unit'
-require '../armstrong_number'
+require_relative '../armstrong_number'
 class TestArmstrongNumber < Test::Unit::TestCase
 
   test "Test to Check all ArmstrongNumbers" do
